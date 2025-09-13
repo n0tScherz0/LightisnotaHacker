@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @LightisnotaHacker
-- 👀 I’m interested in ...Ethical Hacking
-- 🌱 I’m currently learning ...Kali linux/Python3
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @n0tScherz0
+- 👀 I’m interested in ...Machine Learning
+- 🌱 I’m currently learning ...Tensorflow/Scikit-learn
+- 💞️ I’m looking to collaborate on deep learning projects
 - 📫 How to reach me ...lightwastaken1127@gmail.com
 
 <!---
